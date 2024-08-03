@@ -1,7 +1,10 @@
 CUBIX_Data_Engineer_Course
+
 Short description
+
 Analysing the Taxi trips at Chicago
 README
+
 Analyzing the project involving taxi trips in Chicago.
 
 https://cubixedu.com/hu/data-engineer-alapkepzes/
@@ -31,9 +34,12 @@ temperature
 windspeed
 rain
 precipitation
+
 05_date_dimension.ipynb Preparing date columns for further usage like:
+
 isweekend
 dayofweek
+
 06_chicago_data_to_mapping.ipynb Fetching Taxi Trip Data:
 Calculating the current date minus two months. Formatting this date as YYYY-MM-DD. Constructs a URL to fetch taxi trip data from the City of Chicago's data portal for the specified date. Sending a GET request to the URL and retrieves the data in JSON format. Converting the JSON data into a Pandas DataFrame.
 
