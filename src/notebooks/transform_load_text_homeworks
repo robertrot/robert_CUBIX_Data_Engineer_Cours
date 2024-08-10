@@ -1,0 +1,20 @@
+Data Engineer
+
+Assignments / Homeworks
+
+Homework1-Week 1:
+
+  Create a function (similar to the read_csv_from_s3) which reads json files from
+
+S3, for the taxi and weather data. The goal is to replace these three rows:
+
+    response = s3.get_object(Bucket=bucket, Key=taxi_trip_key)
+    content = response["Body"]
+    taxi_trips_data_json = json.loads(content.read())
+
+  With a function call:
+
+    taxi_trips_data_json = read_json_from_s3(PARAMETERS)
+
+Upload the Transform Load Lambda function to your github (just copy into the
+whole code into a notebook), and send me your github.
