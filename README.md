@@ -67,3 +67,27 @@ Taxi Trips Transformation:
 The code retrieves taxi trip data from the Chicago Data Portal for a date two months ago. The data is cleaned by removing columns and rows with missing values, and renaming columns to clairfy to further usage. Adds a new column for weather data association.
 
 Function for Taxi Trips Transformation: Defines a function taxi_trips_transformations that encapsulates the transformation steps for reusability.
+
+Taxi Trips Transformation:
+
+The code retrieves taxi trip data from the Chicago Data Portal for a date two months ago. The data is cleaned by removing columns and rows with missing values, and renaming columns to clairfy to further usage. Adds a new column for weather data association.
+
+Function for Taxi Trips Transformation: Defines a function taxi_trips_transformations that encapsulates the transformation steps for reusability.
+
+Company Master Update:
+
+Extracts unique company names from the taxi trips data and creates a master table with company IDs. Checks for new companies in an incoming dataset and appends them to the company master table.
+
+Function for Company Master Update: Defines a function update_company_master to handle the extension of the company master table with new companies.
+
+Payment Type Master Update: Similar to company master, it creates and updates a master table for payment types.
+
+Function for Payment Type Master Update: Defines a function update_payment_type_master to handle updates for the payment type master table.
+
+Generic Master Update Function: Implements a generic function update_master to update any master table by specifying relevant columns.
+
+Update Taxi Trips with Master Data: A function update_taxi_trips_with_master_data replaces company names and payment types in the taxi trips data with their respective IDs from the master tables.
+
+Weather Data Transformation: Retrieves weather data using the Open Meteo API for the same date as the taxi trips. Transforms the JSON response into a pandas DataFrame, focusing on specific weather metrics.
+
+08_local_visualizations.ipynb Lastly getting the data back from AWS S3 buckets after tranfsormations and visualizing the processed data.
