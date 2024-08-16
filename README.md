@@ -11,7 +11,8 @@ Requirements
 
 Installation
 
-1. Clone the repository: git clone https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours.git
+
+1.Clone the repository: git clone https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours.git
 
 2.Install the necessary dependencies:
 
@@ -19,20 +20,17 @@ Installation
 
 Usage
 
- Open the Jupyter Notebook: jupyter notebook
+1.Open the Jupyter Notebook: 
+    jupyter notebook
 
-Run the notebooks in sequence to follow the data engineering steps.
+2.Run the notebooks in sequence to follow the data engineering steps.
 
 Results
 
-Below are some key outputs from the project:
+ Below are some key outputs from the project:
 
- Data Cleaning: Explanation of the steps taken to clean the data.
- Visualization: Include screenshots or diagrams showing data insights.
-
-License
-
-This project is licensed under the MIT License.
+  Data Cleaning: Explanation of the steps taken to clean the data.
+  Visualization: Include screenshots or diagrams showing data insights.
 
 
 Short description
