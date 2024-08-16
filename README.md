@@ -1,32 +1,25 @@
 CUBIX Data Engineer Course Project
+
 Overview
 
 This project is part of the CUBIX Data Engineer course, focused on mastering big data analytics and data engineering practices. The project involves multiple notebooks that guide through data processing, analysis, and visualization techniques.
 Requirements
 
-Python 3.12.5
-Jupyter Notebook
-Required libraries: pandas, numpy, matplotlib, etc.
+ Python 3.12.5
+ Jupyter Notebook
+ Required libraries: pandas, numpy, matplotlib, etc.
 
 Installation
 
-Clone the repository:
+1. Clone the repository: git clone https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours.git
 
-git clone https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours.git
+2.Install the necessary dependencies:
 
-Install the necessary dependencies:
-
-
-
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 Usage
 
-Open the Jupyter Notebook:
-
-   
-
-jupyter notebook
+ Open the Jupyter Notebook: jupyter notebook
 
 Run the notebooks in sequence to follow the data engineering steps.
 
@@ -34,8 +27,8 @@ Results
 
 Below are some key outputs from the project:
 
-    Data Cleaning: Explanation of the steps taken to clean the data.
-    Visualization: Include screenshots or diagrams showing data insights.
+ Data Cleaning: Explanation of the steps taken to clean the data.
+ Visualization: Include screenshots or diagrams showing data insights.
 
 License
 
