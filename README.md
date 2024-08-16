@@ -45,9 +45,10 @@ https://cubixedu.com/hu/data-engineer-alapkepzes/
 
 The sources of the data:
 
- > Open-Meteo - Free weather API
- > Chicago Data Portal
- > Community areas in Chicago
+  Open-Meteo - Free weather API
+  Chicago Data Portal
+  Community areas in Chicago
+  
 I'm Robert Rotar and i've attended to a Data Engineering course at Cubix using AWS and Python and created the following project:
 
 01_json_scraping.ipynb Reading CV file that contains spofity playlist and listing:
