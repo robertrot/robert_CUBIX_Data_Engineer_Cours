@@ -138,11 +138,11 @@ This project contains various data analyses and visualizations.
 
 ### Daily Trip Counts
 
-![Daily Trip Counts](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/raw/main/src/notebooks/images/daily_trip_counts.png)
+![Daily Trip Counts](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/raw/main/src/notebooks/daily_trip_counts.png)
 
 ### Top 5 Pickup Community Areas
 
-![Top 5 Pickup Community Areas](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/raw/main/src/notebooks/images/top_5_pickup_areas.png)
+![Top 5 Pickup Community Areas](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/raw/main/src/notebooks/top_5_pickup_areas.png)
 
 ## Additional Information
 
