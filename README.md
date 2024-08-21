@@ -146,4 +146,6 @@ This project contains various data analyses and visualizations.
 
 ![Wind Speed by Day of Week](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/sns_kdplt_Wind_Speedby_Day_of_Week.png)
 
+![Total Trip count per Company](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/plot_total_trip_count_per_company.png)
+
 Further details about the analysis can be found in the notebooks.
