@@ -148,4 +148,6 @@ This project contains various data analyses and visualizations.
 
 ![Total Trip count per Company](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/plot_total_trip_count_per_company.png)
 
+![Total Trip count per Company]()
+
 Further details about the analysis can be found in the notebooks.
