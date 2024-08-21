@@ -126,3 +126,23 @@ Update Taxi Trips with Master Data: A function update_taxi_trips_with_master_dat
 Weather Data Transformation: Retrieves weather data using the Open Meteo API for the same date as the taxi trips. Transforms the JSON response into a pandas DataFrame, focusing on specific weather metrics.
 
 08_local_visualizations.ipynb Lastly getting the data back from AWS S3 buckets after tranfsormations and visualizing the processed data.
+
+# Project Title
+
+## Overview
+
+This project contains various data analyses and visualizations.
+
+## Diagrams
+
+### Daily Trip Counts
+
+![Daily Trip Counts](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/raw/main/src/notebooks/images/daily_trip_counts.png)
+
+### Top 5 Pickup Community Areas
+
+![Top 5 Pickup Community Areas](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/raw/main/src/notebooks/images/top_5_pickup_areas.png)
+
+## Additional Information
+
+Further details about the analysis can be found in the notebooks.
