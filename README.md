@@ -138,7 +138,7 @@ This project contains various data analyses and visualizations.
 
 ### Daily Trip Counts
 
-![Daily Trip Counts](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/raw/main/src/notebooks/images/daily_trip_counts.png)
+![Daily Trip Counts](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/plot_daily_trip_counts.png)
 
 ### Top 5 Pickup Community Areas
 
