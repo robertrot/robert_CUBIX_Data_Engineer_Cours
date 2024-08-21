@@ -1,6 +1,7 @@
-CUBIX Data Engineer Course Project
+# Project Title
+# CUBIX Data Engineer Course Project
 
-Overview
+## Overview
 
 This project is part of the CUBIX Data Engineer course, focused on mastering big data analytics and data engineering practices. The project involves multiple notebooks that guide through data processing, analysis, and visualization techniques.
 Requirements
