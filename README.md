@@ -144,9 +144,15 @@ This project contains various data analyses and visualizations.
 
 ![Top 5 Pickup Community Areas](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/pie_chart_top_5_pickup_areas.png)
 
+### Wind Speed by Day of Week
+
 ![Wind Speed by Day of Week](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/sns_kdplt_Wind_Speedby_Day_of_Week.png)
 
+### Total Trip count per Company
+
 ![Total Trip count per Company](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/plot_total_trip_count_per_company.png)
+
+### Tript and Rain over time
 
 ![Tript and Rain over time](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/plot_chart_trips_and_rain_over_time.png)
 
