@@ -142,7 +142,7 @@ This project contains various data analyses and visualizations.
 
 ### Top 5 Pickup Community Areas
 
-![Top 5 Pickup Community Areas]()
+![Top 5 Pickup Community Areas](https://github.com/robertrot/robert_CUBIX_Data_Engineer_Cours/blob/main/src/notebooks/pie_chart_top_5_pickup_areas.png)
 ![]()
 
 Further details about the analysis can be found in the notebooks.
